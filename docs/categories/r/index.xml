@@ -9,6 +9,36 @@
     <atom:link href="/categories/r/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Junk</title>
+      <link>/2017/02/24/junk/</link>
+      <pubDate>Fri, 24 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/2017/02/24/junk/</guid>
+      <description>&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;junk &amp;lt;- rnorm(1000, 100, 10)
+mean(junk)&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;## [1] 99.88449&lt;/code&gt;&lt;/pre&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;sd(junk)&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;## [1] 10.00316&lt;/code&gt;&lt;/pre&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;hist(junk)&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;img src=&#34;../../post/2017-02-24-junk_files/figure-html/unnamed-chunk-1-1.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>More Junk</title>
+      <link>/2017/02/24/more-junk/</link>
+      <pubDate>Fri, 24 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/2017/02/24/more-junk/</guid>
+      <description>&lt;p&gt;What the heck dude?&lt;/p&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;set.seed(123)
+junk &amp;lt;- rnorm(10000, 100, 10)
+hist(junk)&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;img src=&#34;../../post/2017-02-24-more-junk_files/figure-html/unnamed-chunk-1-1.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Hello R Markdown</title>
       <link>/2015/07/23/hello-r-markdown/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
