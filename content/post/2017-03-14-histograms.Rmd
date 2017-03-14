@@ -2,9 +2,9 @@
 title: Histograms
 author: jimmy
 date: '2017-03-14'
-slug: histograms
 categories:
   - R
+slug: histograms
 ---
 
 ```{r}
