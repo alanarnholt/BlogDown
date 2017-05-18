@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Lithium Theme</title>
+    <title>Alan&#39;s WebPage</title>
     <link>/index.xml</link>
-    <description>Recent content on Lithium Theme</description>
+    <description>Recent content on Alan&#39;s WebPage</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 14 Mar 2017 00:00:00 +0000</lastBuildDate>
@@ -29,9 +29,9 @@ hist(junk, col = &amp;quot;blue&amp;quot;)&lt;/code&gt;&lt;/pre&gt;
       <guid>/2017/02/24/junk/</guid>
       <description>&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;junk &amp;lt;- rnorm(1000, 100, 10)
 mean(junk)&lt;/code&gt;&lt;/pre&gt;
-&lt;pre&gt;&lt;code&gt;## [1] 99.88449&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;## [1] 99.9047&lt;/code&gt;&lt;/pre&gt;
 &lt;pre class=&#34;r&#34;&gt;&lt;code&gt;sd(junk)&lt;/code&gt;&lt;/pre&gt;
-&lt;pre&gt;&lt;code&gt;## [1] 10.00316&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;## [1] 9.912678&lt;/code&gt;&lt;/pre&gt;
 &lt;pre class=&#34;r&#34;&gt;&lt;code&gt;hist(junk)&lt;/code&gt;&lt;/pre&gt;
 &lt;p&gt;&lt;img src=&#34;./post/2017-02-24-junk_files/figure-html/unnamed-chunk-1-1.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
 </description>

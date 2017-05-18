@@ -2,7 +2,7 @@ publishDir = "docs"
 baseurl = "/"
 relativeurls = true
 languageCode = "en-us"
-title = "Lithium Theme"
+title = "Alan's WebPage"
 theme = "hugo-lithium-theme"
 googleAnalytics = ""
 disqusShortname = ""
@@ -30,8 +30,8 @@ ignoreFiles = ["\\.Rmd$", "_files$", "_cache$"]
     highlightjsTheme = "github"
 
     [params.logo]
-    url = "logo.png"
-    width = 50
+    url = "Alan.png"
+    width = 40
     height = 50
     alt = "Logo"
 
